@@ -1,9 +1,4 @@
-/*
-    CH08-320143
-    a5_p6.cpp
-    Henok Seifu
-    hseifu@jacobs-university.de
-*/
+//Done by Henok Seifu
 #include "Card.h"
 #include "Deck.h"
 #include "Game.h"

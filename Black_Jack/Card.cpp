@@ -1,9 +1,4 @@
-/*
-    CH08-320143
-    a5_p6.cpp
-    Henok Seifu
-    hseifu@jacobs-university.de
-*/
+//Done by Henok Seifu
 #include "Card.h"
 Card::Card(rank r, suit s, bool ifu):  m_Rank(r), m_Suit(s), m_IsFaceUp(ifu)
 {} 
